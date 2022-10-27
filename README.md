@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=I'm%20Sanghyun.&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=I'm%20Sanghyun.&desc=Backend%20Developer&fontSize=90)
 <!--
 **AhnSang0915/AhnSang0915** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
